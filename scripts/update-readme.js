@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 
-const ORG = 'OrgName';
+const ORG = 'digidecks';
 const README_PATH = 'profile/README.md';
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
