@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 const ORG = 'OrgName';
-const README_PATH = 'README.md';
+const README_PATH = 'profile/README.md';
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 (async () => {
