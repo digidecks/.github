@@ -48,7 +48,7 @@ const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
             topicGroups[topic]
                 .sort((a, b) => a.name.localeCompare(b.name))
                 .forEach(repo => {
-                    repoList += `- [${repo.name}](${repo.html_url}) ![Stars](https://img.shields.io/github/stars/${ORG}/${repo.name}?style=social) ![Issues](https://img.shields.io/github/issues/${ORG}/${repo.name})\n`;
+                    repoList += `- [${repo.name}](${repo.html_url})\n`;
                 });
             repoList += '\n';
         });
