@@ -12,6 +12,7 @@
 ### Uncategorized
 
 - [.github](https://github.com/digidecks/.github)
+- [aws-cost-alarms](https://github.com/digidecks/aws-cost-alarms)
 - [common-lib](https://github.com/digidecks/common-lib)
 - [core-backend](https://github.com/digidecks/core-backend)
 - [core-frontend](https://github.com/digidecks/core-frontend)
