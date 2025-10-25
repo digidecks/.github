@@ -22,6 +22,7 @@
 - [digimon-api](https://github.com/digidecks/digimon-api)
 - [digimon-frontend](https://github.com/digidecks/digimon-frontend)
 - [site-template](https://github.com/digidecks/site-template)
+- [supabase-cron](https://github.com/digidecks/supabase-cron)
 
 <!-- REPO-LIST-END -->
 
