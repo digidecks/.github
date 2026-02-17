@@ -22,7 +22,6 @@
 
 ### Uncategorized
 
-- [common-lib](https://github.com/digidecks/common-lib)
 - [core-backend](https://github.com/digidecks/core-backend)
 - [core-frontend](https://github.com/digidecks/core-frontend)
 - [digidecks-monorepo](https://github.com/digidecks/digidecks-monorepo)
