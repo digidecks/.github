@@ -16,17 +16,21 @@
 
 - [auth-service](https://github.com/digidecks/auth-service)
 
+### Web-apis
+
+- [core-backend](https://github.com/digidecks/core-backend)
+
 ### Web-clients
 
+- [core-frontend](https://github.com/digidecks/core-frontend)
 - [site-template](https://github.com/digidecks/site-template)
 
 ### Uncategorized
 
-- [core-backend](https://github.com/digidecks/core-backend)
-- [core-frontend](https://github.com/digidecks/core-frontend)
 - [digidecks-monorepo](https://github.com/digidecks/digidecks-monorepo)
 - [digidecks-web-client](https://github.com/digidecks/digidecks-web-client)
 - [digimon-api](https://github.com/digidecks/digimon-api)
+- [digimon-api-test](https://github.com/digidecks/digimon-api-test)
 - [digimon-frontend](https://github.com/digidecks/digimon-frontend)
 
 <!-- REPO-LIST-END -->
