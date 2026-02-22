@@ -18,7 +18,7 @@
 
 ### Web-apis
 
-- [core-backend](https://github.com/digidecks/core-backend)
+- [core-api](https://github.com/digidecks/core-api)
 
 ### Web-clients
 
